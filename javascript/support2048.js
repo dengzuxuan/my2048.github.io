@@ -20,7 +20,7 @@ function getNumberBackgroundColor( number ){
 		case 256:return"#edcc61";break;
 		case 512:return"#9c0";break;
 		case 1024:return"#33b5e5";break;
-		case 2048:return"#09c";break;
+		case 2048:alert('您被授予邓祖轩承认的‘科学家’称号！！！')return"#09c";break;
 		case 4096:return"#a6c";break;
 		case 8192:return"#93c";break;
 			}
